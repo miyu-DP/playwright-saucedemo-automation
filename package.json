@@ -1,0 +1,16 @@
+{
+  "name": "e2e-test",
+  "version": "1.0.0",
+  "description": "**Date:** 01 August 2026",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.64.0",
+    "@types/node": "^26.6.5"
+  },
+  "directories": {
+    "test": "tests"
+  }
+}
